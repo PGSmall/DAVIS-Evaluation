@@ -1,3 +1,14 @@
+### Installation
+```bash
+# Download the code
+git clone https://github.com/PGSmall/DAVIS-Evaluation.git && cd davis2017-evaluation
+# Install it - Python 3.6 or higher required
+python setup.py install
+```
+If you don't want to specify the DAVIS path every time, you can modify the default value in the variable `default_davis_path` in `evaluation_method.py`(the following examples assume that you have set it). 
+Otherwise, you can specify the path in every call using using the flag `--davis_path /path/to/DAVIS` when calling `evaluation_method.py`.
+
+
 # DAVIS-Evaluation
 I modified the source code [DAVIS2017-Evaluation](https://github.com/davisvideochallenge/davis2017-evaluation), and the revised code can evaluate the davis 2016, 2017 and 2019 datasets.
 
