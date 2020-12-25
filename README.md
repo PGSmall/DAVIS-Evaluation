@@ -1,5 +1,5 @@
 # DAVIS-Evaluation
-I modified the source code[https://github.com/davisvideochallenge/davis2017-evaluation], and the revised code can evaluate the davis 2016, 2017 and 2019 datasets.
+I modified the source code [DAVIS2017-Evaluation](https://github.com/davisvideochallenge/davis2017-evaluation), and the revised code can evaluate the davis 2016, 2017 and 2019 datasets.
 
 ## Evaluate DAVIS 2017 Semi-supervised
 In order to evaluate your semi-supervised method in DAVIS 2017, execute the following command substituting `results/semi-supervised/osvos` by the folder path that contains your results:
