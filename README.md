@@ -27,7 +27,7 @@ python evaluation_method.py --task unsupervised --results_path results/unsupervi
 The unsupervised results example have been generated using [RVOS](https://github.com/imatge-upc/rvos).
 
 ## Evaluate DAVIS 2016 Unsupervised
-In order to evaluate your unsupervised method in DAVIS 2017, execute the following command substituting `results/unsupervised/rvos` by the folder path that contains your results:
+In order to evaluate your unsupervised method in DAVIS 2016, execute the following command substituting `results/unsupervised/rvos` by the folder path that contains your results:
 ```bash
 python evaluation_method.py --task unsupervised --results_path results/unsupervised/rvos --2016
 ```
