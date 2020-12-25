@@ -33,4 +33,4 @@ python evaluation_method.py --task unsupervised --results_path results/unsupervi
 ```
 The unsupervised results example have been generated using [RVOS](https://github.com/imatge-upc/rvos).
 
-Thanks a lot [issues](https://github.com/davisvideochallenge/davis2017-evaluation/issues/4).
+Thanks a lot these [issues](https://github.com/davisvideochallenge/davis2017-evaluation/issues/4).
