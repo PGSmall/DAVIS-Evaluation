@@ -32,3 +32,4 @@ In order to evaluate your unsupervised method in DAVIS 2017, execute the followi
 python evaluation_method.py --task unsupervised --results_path results/unsupervised/rvos --2016
 ```
 The unsupervised results example have been generated using [RVOS](https://github.com/imatge-upc/rvos).
+Thanks a lot [issues](https://github.com/davisvideochallenge/davis2017-evaluation/issues/4)
